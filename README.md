@@ -1,4 +1,4 @@
-# livestockmarketprices-com
+# Livestock Market Prices
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,135 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-livestockmarketprices-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://livestockmarketprices.com/
+Livestock Market Prices offers a comprehensive view of livestock auction prices across the United States. The platform provides current barn reports, market links, historical data, price comparisons, and source records, helping producers, traders, and analysts stay informed about market trends and make better decisions.
+
+**Areas:** Livestock · Agriculture · Market Data · Prices · API
+
+## Livestock Market Prices on APIs.io
+
+Everything profiled for Livestock Market Prices is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/livestockmarketprices-com/](https://apis.io/providers/livestockmarketprices-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [Livestock Market Prices Benchmarks API](https://apis.io/apis/livestockmarketprices-com/livestockmarketprices-com-benchmarks-api/) — The Benchmarks API from Livestock Market Prices — 1 operation(s) for benchmarks.
+- [Livestock Market Prices Coverage API](https://apis.io/apis/livestockmarketprices-com/livestockmarketprices-com-coverage-api/) — The Coverage API from Livestock Market Prices — 1 operation(s) for coverage.
+- [Livestock Market Prices Data API](https://apis.io/apis/livestockmarketprices-com/livestockmarketprices-com-data-api/) — The Data API from Livestock Market Prices — 1 operation(s) for data.
+- [Livestock Market Prices Healthz API](https://apis.io/apis/livestockmarketprices-com/livestockmarketprices-com-healthz-api/) — The Healthz API from Livestock Market Prices — 1 operation(s) for healthz.
+- [Livestock Market Prices Methodologies API](https://apis.io/apis/livestockmarketprices-com/livestockmarketprices-com-methodologies-api/) — The Methodologies API from Livestock Market Prices — 2 operation(s) for methodologies.
+- [Livestock Market Prices Openapi.json API](https://apis.io/apis/livestockmarketprices-com/livestockmarketprices-com-openapi-json-api/) — The Openapi.json API from Livestock Market Prices — 1 operation(s) for openapi.json.
+- [Livestock Market Prices Prices API](https://apis.io/apis/livestockmarketprices-com/livestockmarketprices-com-prices-api/) — The Prices API from Livestock Market Prices — 1 operation(s) for prices.
+- [Livestock Market Prices Reports API](https://apis.io/apis/livestockmarketprices-com/livestockmarketprices-com-reports-api/) — The Reports API from Livestock Market Prices — 1 operation(s) for reports.
+- [Livestock Market Prices Valuations API](https://apis.io/apis/livestockmarketprices-com/livestockmarketprices-com-valuations-api/) — The Valuations API from Livestock Market Prices — 1 operation(s) for valuations.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Livestock Market Prices Agentic Access](https://apis.io/agentic-access/livestockmarketprices-com/livestockmarketprices-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CoverageResponse](https://apis.io/schemas/livestockmarketprices-com/livestockmarketprices-com-coverage-response/)
+- [MethodologiesResponse](https://apis.io/schemas/livestockmarketprices-com/livestockmarketprices-com-methodologies-response/)
+- [PricesResponse](https://apis.io/schemas/livestockmarketprices-com/livestockmarketprices-com-prices-response/)
+- [ReportResponse](https://apis.io/schemas/livestockmarketprices-com/livestockmarketprices-com-report-response/)
+- [ValuationRequest](https://apis.io/schemas/livestockmarketprices-com/livestockmarketprices-com-valuation-request/)
+- [ValuationResponse](https://apis.io/schemas/livestockmarketprices-com/livestockmarketprices-com-valuation-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Livestockmarketprices Com Context](https://apis.io/jsonld/livestockmarketprices-com/livestockmarketprices-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Livestock Market Prices API Rules](https://apis.io/rules/livestockmarketprices-com/livestockmarketprices-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Livestock Market Prices Authentication](https://apis.io/security/livestockmarketprices-com/livestockmarketprices-com-authentication/)
+- [Livestock Market Prices Domain Security](https://apis.io/security/livestockmarketprices-com/livestockmarketprices-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Livestock Market Prices Plans Pricing](https://apis.io/plans/livestockmarketprices-com/livestockmarketprices-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://livestockmarketprices.com/)
+- [API reference](https://livestockmarketprices.com/developers)
+- [Pricing](https://livestockmarketprices.com/pricing)
+- [Support](https://livestockmarketprices.com/support)
+- [Terms of service](https://livestockmarketprices.com/terms)
+- [Privacy policy](https://livestockmarketprices.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 46.6** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 55.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 51.5 |
+
+**Agent readiness 34.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 23.1** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/livestockmarketprices-com/](https://apis.io/providers/livestockmarketprices-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Livestock Market Prices: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/livestockmarketprices-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
